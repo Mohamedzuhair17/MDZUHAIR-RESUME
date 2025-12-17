@@ -32,7 +32,7 @@ export const Timeline = () => {
       ],
     },
     {
-      date: "Sept 2023 - Apr 2024",
+      date: "April 2025 - June 2025",
       title: "Machine Learning & Data Science Training",
       company: "Self-Paced Learning / Online Bootcamps",
       descriptions: [
