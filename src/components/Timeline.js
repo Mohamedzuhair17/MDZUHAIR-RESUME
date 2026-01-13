@@ -32,8 +32,8 @@ export const Timeline = () => {
       ],
     },
     {
-      date: "April 2025 - June 2025",
-      title: "Machine Learning & Data Science Training",
+      date: " May 2025 - June 2025",
+      title: "Machine Learning  Training",
       company: "Self-Paced Learning / Online Bootcamps",
       descriptions: [
         "• Completed comprehensive ML courses covering supervised and unsupervised algorithms.",
